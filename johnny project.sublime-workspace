@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sh/Desktop/DJ DAVIS/about us.html",
+		"/C/Users/sh/Desktop/home.html",
+		"/C/Users/sh/Desktop/contact us.html",
+		"/C/Users/sh/Desktop/DJJDAVIS/contact us.html",
+		"/C/Users/sh/Desktop/DJJDAVIS/about us.html",
+		"/C/Users/sh/Desktop/DJJDAVIS/gggg.html",
+		"/C/Users/sh/Desktop/J0HNNY/About.html",
+		"/C/Users/sh/Desktop/J0HNNY/Contact.html",
+		"/C/Users/sh/Desktop/J0HNNY/Home.html",
+		"/C/Users/sh/Desktop/DJJDAVIS/dddd.html",
+		"/C/Users/sh/Desktop/jonny/johnny.rar",
+		"/C/Users/sh/Desktop/jonny/jonny.html",
+		"/C/Users/sh/Desktop/examplelogin.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/aboutus.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/sample2.html",
+		"/C/Users/sh/Desktop/ANTHONY/Aboutus.html",
+		"/C/Users/sh/Desktop/ANTHONY/Services.html",
+		"/C/Users/sh/Desktop/ANTHONY/Homepage.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/Reviews.HTML",
+		"/C/Users/sh/Desktop/MASSA/MENU.html",
+		"/C/Users/sh/Desktop/MASSA/ABOUT US.html",
+		"/C/Users/sh/Desktop/MASSA/CONTACT US.html",
+		"/C/Users/sh/Desktop/MASSA/HOME.html",
+		"/C/Users/sh/Desktop/REAL WEBSITE PROJECT/realhomepage.html",
+		"/C/Users/sh/Desktop/REAL WEBSITE PROJECT/contact.html",
+		"/C/Users/sh/Desktop/REAL WEBSITE PROJECT/login.html",
+		"/C/Users/sh/Desktop/ANTHONY/samplehome.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/Contact Us.HTML",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/About Page.HTML",
+		"/C/Users/sh/Desktop/contactus.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/indexpagehtml",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/Sim – Only Plans.HTML",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/FAQs.HTML",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/desmond ICW project/Homepage.html",
+		"/C/Users/sh/Desktop/ANTHONY/Contactus",
+		"/C/Users/sh/Desktop/MASSA/HOME",
+		"/C/Users/sh/Desktop/MENU.html",
+		"/C/Users/sh/Desktop/contact.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/bamwe.html",
+		"/C/Users/sh/Desktop/INTERNET CONCEPT AND WED DESIGN/tonyalvin.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "johnny project.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,71 @@
+/* Reset some default margin and padding for better layout control */
+body, h1, h5, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply responsive styles for header text */
+header {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+/* Make the navigation links horizontal and responsive */
+nav ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Style for video */
+video {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Apply responsive styles for paragraphs */
+p {
+    color: red;
+    text-align: center;
+    margin: 10px 0;
+}
+
+/* Responsive image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style for footer text */
+footer {
+    text-align: center;
+    background: #f0f0f0;
+    padding: 10px;
+}
+
+h5 {
+    color: #333;
+}
+
+/* Media queries for responsive design */
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 1.5em;
+    }
+    p {
+        font-size: 0.9em;
+    }
+}
